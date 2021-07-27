@@ -1,6 +1,6 @@
 {
   "private": true,
-  "homepage": "https://babyspirit.co",
+  "homepage": "https://babyspirit.github.io/baby_spirit2/",
   "entry": {
     "index": "./index.js"
   },
