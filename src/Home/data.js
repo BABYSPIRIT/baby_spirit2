@@ -26,7 +26,7 @@ export const page2 = [
     data: {
       completed: ["Token Release", "Web Site Release", "Post on CMS"],
       uncompleted: [
-        "Airdrop Campaigns",
+        "Gleam contests",
         "Telegram & Twitter shout out",
         "Building a strong Community",
       ],
