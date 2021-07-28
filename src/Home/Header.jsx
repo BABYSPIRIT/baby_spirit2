@@ -6,12 +6,12 @@ export default function Header(props) {
     <header {...props}>
       <div className="header-content">
         <h1>
-          <a href="https://babyspirit.co" target="_blank"></a>
+          <a href="/"></a>
           <span>BabySpirit</span>
         </h1>
         <Button
           onClick={() => {
-            window.location.href = "https://babyspirit.co";
+            window.location.href = "/";
           }}
           style={{ marginTop: "-20px" }}
         >

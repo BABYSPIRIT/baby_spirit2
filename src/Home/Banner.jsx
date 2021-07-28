@@ -29,8 +29,10 @@ class Banner extends React.PureComponent {
             <span key="button">
               <Button
                 onClick={() => {
-                  window.location.href =
-                    "https://swap.spiritswap.finance/#/swap?outputCurrency=0x44070cD841411f873B23d8F56EFfeBBA5C2592BF";
+                  window.open(
+                    "https://swap.spiritswap.finance/#/swap?outputCurrency=0x44070cD841411f873B23d8F56EFfeBBA5C2592BF",
+                    "_blank"
+                  );
                 }}
               >
                 Buy on Spiritswap!
